@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://itigentech.github.io/itigen/"
 languageCode = "ja"
 title = "ITIGEN"
 publishDir = "docs"

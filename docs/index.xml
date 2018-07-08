@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ITIGEN</title>
-    <link>http://example.org/</link>
+    <link>https://itigentech.github.io/itigen/</link>
     <description>Recent content on ITIGEN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 08 Jul 2018 13:55:55 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itigentech.github.io/itigen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>線形代数Ⅰ</title>
-      <link>http://example.org/posts/senkei1/</link>
+      <link>https://itigentech.github.io/itigen/posts/senkei1/</link>
       <pubDate>Sun, 08 Jul 2018 13:55:55 +0900</pubDate>
       
-      <guid>http://example.org/posts/senkei1/</guid>
+      <guid>https://itigentech.github.io/itigen/posts/senkei1/</guid>
       <description>線形代数の動画です。</description>
     </item>
     
