@@ -1,2 +1,2 @@
 [submodule "themes/ananke"]
-	ignore = untracked
+	ignore = dirty
