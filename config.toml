@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "ja"
 title = "ITIGEN"
+publishDir = "docs"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
