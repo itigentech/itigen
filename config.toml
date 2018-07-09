@@ -7,8 +7,8 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "ja"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "https://www.googletagmanager.com/gtag/js?id=UA-122087163-1"
 enableRobotsTXT = true
 
 [sitemap]
@@ -18,9 +18,9 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "意欲的に学ぼう"
+  description = ""
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/itigentech"
   instagram = ""
   youtube = ""
   github = ""

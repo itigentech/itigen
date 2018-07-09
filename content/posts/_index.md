@@ -1,5 +1,5 @@
 ---
 title: "授業動画"
-date: 2018-07-08T20:54:40+09:00
+description: "配信されている授業動画は、授業日から一週間のみ閲覧可能です。"
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
-配信されている授業動画は、**授業日から一週間**のみ閲覧可能です。注意してください。

@@ -1,6 +1,11 @@
 ---
 title: "Contact"
-date: 2018-07-08T20:50:05+09:00
-draft: true
+description: "plz contact us."
+type: page
+menu:
+  main: {}
 ---
 
+なにかご用件がある場合はこのフォームからご連絡をお願いします。
+
+{{< form-contact action="http://formspree.io/itigentech@gmail.com" >}}

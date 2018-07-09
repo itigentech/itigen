@@ -6,7 +6,7 @@
     <description>Recent content in 授業動画 on ITIGEN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Jul 2018 20:54:40 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 13:55:55 +0900</lastBuildDate>
     
 	<atom:link href="https://itigentech.github.io/itigen/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,18 @@
       <pubDate>Sun, 08 Jul 2018 13:55:55 +0900</pubDate>
       
       <guid>https://itigentech.github.io/itigen/posts/senkei1/</guid>
-      <description>線形代数の動画です。</description>
+      <description>固有値
+  </description>
+    </item>
+    
+    <item>
+      <title>量子力学</title>
+      <link>https://itigentech.github.io/itigen/posts/quantum_physics/</link>
+      <pubDate>Sun, 08 Jul 2018 13:55:55 +0900</pubDate>
+      
+      <guid>https://itigentech.github.io/itigen/posts/quantum_physics/</guid>
+      <description>重ね合わせ
+  </description>
     </item>
     
   </channel>
