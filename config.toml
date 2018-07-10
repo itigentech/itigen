@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "https://www.googletagmanager.com/gtag/js?id=UA-122087163-1"
 enableRobotsTXT = true
+disqusShortname = "https-itigentech-github-io-itigen"
 
 [sitemap]
   changefreq = "monthly"
@@ -22,7 +23,7 @@ enableRobotsTXT = true
   facebook = ""
   twitter = "https://twitter.com/itigentech"
   instagram = ""
-  youtube = ""
+  youtube = "https://www.youtube.com/channel/UC7aMYkkUIReiC03eVdwZ7IA"
   github = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
