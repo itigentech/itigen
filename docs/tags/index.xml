@@ -10,5 +10,23 @@
 	<atom:link href="https://itigentech.github.io/itigen/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>線形代数</title>
+      <link>https://itigentech.github.io/itigen/tags/%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0/</link>
+      <pubDate>Sun, 08 Jul 2018 13:55:55 +0900</pubDate>
+      
+      <guid>https://itigentech.github.io/itigen/tags/%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>量子力学</title>
+      <link>https://itigentech.github.io/itigen/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</link>
+      <pubDate>Sun, 08 Jul 2018 13:55:55 +0900</pubDate>
+      
+      <guid>https://itigentech.github.io/itigen/tags/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

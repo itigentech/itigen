@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>線形代数 on ITIGEN</title>
+    <link>https://itigentech.github.io/itigen/tags/%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0/</link>
+    <description>Recent content in 線形代数 on ITIGEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 08 Jul 2018 13:55:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://itigentech.github.io/itigen/tags/%E7%B7%9A%E5%BD%A2%E4%BB%A3%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>線形代数Ⅰ</title>
+      <link>https://itigentech.github.io/itigen/posts/senkei1/</link>
+      <pubDate>Sun, 08 Jul 2018 13:55:55 +0900</pubDate>
+      
+      <guid>https://itigentech.github.io/itigen/posts/senkei1/</guid>
+      <description>固有値
+  </description>
+    </item>
+    
+  </channel>
+</rss>
