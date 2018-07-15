@@ -1,6 +1,6 @@
 ---
 description: "7/10"
-tags: []
+tags: ["量子力学"]
 title: "量子力学"
 date: 2018-07-08T13:55:55+09:00
 draft: false
